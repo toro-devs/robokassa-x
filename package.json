@@ -1,6 +1,6 @@
 {
   "name": "@toro-devs/robokassa-x",
-  "version": "0.0.0",
+  "version": "1.1.0",
   "description": "Robokassa Node.JS integration",
   "types": "lib/index.d.ts",
   "keywords": [
