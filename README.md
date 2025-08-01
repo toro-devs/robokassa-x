@@ -1,5 +1,7 @@
 # Robokassa Node.JS
 
+Форк [@dev-aces/robokassa](https://github.com/dev-aces/robokassa)
+
 Пакет [Robokassa](https://docs.robokassa.ru) для Node.JS.
 
 Поддерживает JavaScript и TypeScript.
